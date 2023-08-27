@@ -1,0 +1,13 @@
+filelock
+h5py
+numpy-quaternion
+opencv-python
+openexr
+potpourri3d==0.0.4
+pyquaternion
+ray[default]
+scipy
+tensorboardx
+transformations
+transforms3d
+trimesh

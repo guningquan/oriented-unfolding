@@ -1,0 +1,3 @@
+/workspace/oriented_unfolding/PyFlex/bindings/build/CMakeFiles/pyflex.dir
+/workspace/oriented_unfolding/PyFlex/bindings/build/CMakeFiles/edit_cache.dir
+/workspace/oriented_unfolding/PyFlex/bindings/build/CMakeFiles/rebuild_cache.dir
