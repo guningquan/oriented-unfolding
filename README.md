@@ -1,4 +1,4 @@
-<h1> Learning to Unfold Garment Effectively into Oriented Direction </h1>
+<h1>Oriented-unfolding </h1>
 <div style="text-align: center;">
 
 [Ningquan Gu](https://www.github.com/ningquan-gu), [Ruhan He](), [Lianqing Yu]()
@@ -83,6 +83,10 @@ cd oriented_unfolding
 . ./prepare.sh && ./compile.sh
 ```
 
+### Models + Task Dataset
+
+You can download the pretrained models [here](https://drive.google.com/file/d/1vGJABDChqJIr6T47QDqfLz8tY6Z70ZyB/view) and the task dataset [here](https://drive.google.com/file/d/1qMRs7c4ckIRQVPyFWQoAKgE3n_kXUhUp/view).
+The models should be stored in `oriented-unfolding/models/` and the datasets will be stored in `oriented-unfolding/assets/tasks/`.
 
 
 ## Evaluate Oriented Unfolding 
